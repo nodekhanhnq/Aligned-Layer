@@ -1,5 +1,7 @@
+# 1) Auto_install script
+```python
 sudo apt install curl -y && source <(curl -s https://github.com/nodekhanhnq/Aligned-Layer/blob/main/alignedlayer_auto)
-
+```
 
 Aligned Layer
 Website: https://alignedlayer.com/
